@@ -2,7 +2,7 @@
 
 > Terjemahan Bahasa Indonesia untuk [Mod NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 
-BLM
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/YugoSamakuhaku/NPCMapLocations-Bahasa-Indonesia?label=Versi%20Terbaru&style=plastic) ![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/NPCMapLocations-Bahasa-Indonesia?label=license&style=plastic)
 <img src="https://github.com/YugoSamakuhaku/NPCMapLocations-Bahasa-Indonesia/blob/c1a70b8f9973bcc52d8b3b9e0388ca50f74b3ee0/images/NPCMapLocations-Settings-1.png" />
 <img src="https://github.com/YugoSamakuhaku/NPCMapLocations-Bahasa-Indonesia/blob/c1a70b8f9973bcc52d8b3b9e0388ca50f74b3ee0/images/NPCMapLocations-Settings-2.png" />
 <img src="https://github.com/YugoSamakuhaku/NPCMapLocations-Bahasa-Indonesia/blob/c1a70b8f9973bcc52d8b3b9e0388ca50f74b3ee0/images/NPCMapLocations-Settings-3.png" />
