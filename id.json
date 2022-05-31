@@ -1,0 +1,30 @@
+﻿{
+    /*********
+    ** Map options
+    *********/
+    // minimap section
+    "minimap.label": "Minimap",
+    "minimap.enabled": "Aktif",
+    "minimap.locked": "Kunci Posisi Minimap",
+    "minimap.width": "Lebar Minimap",
+    "minimap.height": "Tinggi Minimap",
+
+    // immersion section
+    "immersion.label": "Pengaturan:",
+    "immersion.always-show-villagers": "Selalu Tampilkan Penduduk Desa",
+    "immersion.only-villagers-talked-to": "Tampilkan Penduduk Desa yang Telah Diajak Bicara",
+    "immersion.hide-villagers-talked-to": "Sembunyikan Penduduk Desa yang Telah Diajak Bicara",
+    "immersion.only-villagers-in-player-location": "Hanya Menampilkan Penduduk Desa di Lokasi Pemain",
+    "immersion.only-villagers-within-heart-level": "Hanya Menampilkan Penduduk Desa dalam Level Hati",
+    "immersion.min-heart-level": "Minimal Level Hati",
+    "immersion.max-heart-level": "Maksimal Level Hati",
+
+    // extra settings section
+    "extra.label": "Pengaturan Tambahan:",
+    "extra.show-quests-or-birthdays": "Tampilkan Misi atau Ulang Tahun Penduduk Desa",
+    "extra.show-hidden-villagers": "Tampilkan Penduduk Desa yang Tersembunyi",
+    "extra.show-traveling-merchant": "Tampilkan Traveling Merchant",
+
+    // include/exclude villagers section
+    "villagers.label": "Sertakan/Kecualikan Penduduk Desa:"
+}
